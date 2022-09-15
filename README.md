@@ -1,7 +1,9 @@
 # qb-pizzajob
-A Pizza deleivery job made for qb-core, featuring a custom job.
+A Pizza delivery job made for qb-core, featuring a custom job.
 
 Original Script: https://github.com/ZAUB1/
+
+[Preview](https://youtu.be/AlQnE6SDxXw)
 
 # Dependencies
 - [QBCore](https://github.com/qbcore-framework/qb-core)
