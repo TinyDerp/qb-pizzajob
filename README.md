@@ -2,6 +2,7 @@
 A Pizza delivery job made for qb-core, featuring a custom job.
 
 Original Script: https://github.com/ZAUB1/
+Edit From: https://github.com/MrEvilGamer/qb-pizzajob 
 
 [Preview](https://youtu.be/AlQnE6SDxXw)
 
